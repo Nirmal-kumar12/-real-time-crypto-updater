@@ -18,14 +18,3 @@ Tech Stack:
 > Stores data in an auto-updating Excel sheet
 > Provides key insights like top movers and average prices
 > Handles API errors and missing data gracefully
-
-📂 How to Run:
-
-1. Clone the repository
-2. Install dependencies: pip install requests pandas openpyxl
-3. Run the script: python script.py
-   
-🔗 Future Enhancements:
-
-> Adding data visualization (charts/graphs)
-> Creating a web dashboard for real-time monitoring
